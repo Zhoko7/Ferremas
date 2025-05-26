@@ -1,0 +1,20 @@
+# Paquetes principales
+fastapi==0.115.12
+uvicorn==0.34.2
+
+# Autenticación
+python-jose==3.3.0
+passlib==1.7.4
+
+# Banco Central
+bcchapi==1.0.0
+pandas==2.1.1
+
+# Stripe
+stripe==9.4.0
+
+# HTTP requests
+requests==2.32.3
+
+# Manejo de datos
+pydantic==2.11.4
