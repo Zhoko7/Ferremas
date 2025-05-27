@@ -18,3 +18,5 @@ requests==2.32.3
 
 # Manejo de datos
 pydantic==2.11.4
+
+numpy==25.1.1
